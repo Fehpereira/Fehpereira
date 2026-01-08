@@ -28,7 +28,7 @@ Tenho experiência tanto no **backend quanto no frontend**, além de interesse c
 
 ### Frontend
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,reactnative,vite&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,expo,nextjs,tailwind,vite&perline=6)](https://skillicons.dev)
 
 - React, React Native e Next.js
 - Estilização com Tailwind CSS e Styled Components
@@ -132,8 +132,9 @@ Desenvolvimento de aplicação mobile com foco em gerenciamento de estado e arqu
 
 ## 📚 Atualmente estudando
 
-[![Skills](https://skillicons.dev/icons?i=jest,vitest&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nestjs,jest,vitest&perline=6)](https://skillicons.dev)
 
+- NestJS
 - Testes automatizados
   - Jest
   - Vitest
