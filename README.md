@@ -86,20 +86,6 @@ Atuação no desenvolvimento da interface web da aplicação, com foco em consum
 
 ---
 
-### 🏢 Hellmans
-
-**Projeto real – Frontend**
-
-Desenvolvimento e manutenção de funcionalidades no frontend de uma aplicação web em ambiente profissional.
-
-**Tecnologias utilizadas:**
-
-- Next.js
-- React
-- Tailwind CSS
-
----
-
 ### 🦅 Gerando Falcões
 
 **Projeto real – Frontend**
